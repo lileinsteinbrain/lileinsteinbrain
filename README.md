@@ -2,8 +2,11 @@
 
 Creative technologist & HCI researcher working on **embodied interaction**: translating data, attention and touch into sound, vibration, light and physical response.
 
+🎓 Innovation Design Engineering (IDE), **Royal College of Art** × **Imperial College London**
+
 - 🔬 Interests: haptics · sonification · perception-driven systems · physical computing
 - 🛠 Tools: Python · JavaScript · C# / Unity · C++ / Arduino · Streamlit · sensors (FSR, camera, light) · haptic drivers (DRV2605)
+- 📫 Contact: c.rx111170@gmail.com
 
 ---
 
@@ -25,11 +28,11 @@ Creative technologist & HCI researcher working on **embodied interaction**: tran
 ### Data as embodied sound
 | Project | What it does | Stack |
 |---|---|---|
-| [**hybrid-driver-demo**](https://github.com/lileinsteinbrain/hybrid-driver-demo) | Sonifies F1 telemetry (throttle, brake, steering, speed) to expose driving rhythm | Python · WebSocket · live audio |
+| [**Synthracer · hybrid-driver-demo**](https://github.com/lileinsteinbrain/hybrid-driver-demo) | Learns F1 drivers' "fingerprints" from telemetry, blends two drivers and plays the result as live music | Python · PyTorch · FastF1 · Tone.js |
 | [**molecular-bone-conduction**](https://github.com/lileinsteinbrain/molecular-bone-conduction) | Molecular spectral data turned into bone-conducted audio | Python · audio synthesis |
 | [**oasis-llm-demo**](https://github.com/lileinsteinbrain/oasis-llm-demo) | An LLM picks a response strategy for an emotion and assembles a spatial memory experience | Python · Flask · OpenAI |
 
 ## Studies
 
-- [**f1-abx-test**](https://github.com/lileinsteinbrain/f1-abx-test): ABX test of whether drivers can be told apart through visual vs. sonified telemetry
+- [**Synthracer · f1-abx-test**](https://github.com/lileinsteinbrain/f1-abx-test): ABX test of whether drivers can be told apart through visual vs. sonified telemetry
 - [**temporal-ambig-study**](https://github.com/lileinsteinbrain/temporal-ambig-study): within-subject study of directive vs. ambiguous interaction
